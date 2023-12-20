@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>7355084 (1).png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>hospital_687529.png</file>
+        <file>free-icon-email-1077071.png</file>
+        <file>free-icon-instagram-1077042.png</file>
+        <file>free-icon-phone-call-126509.png</file>
+        <file>free-icon-placeholder-126470.png</file>
+    </qresource>
+</RCC>
